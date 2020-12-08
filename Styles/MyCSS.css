@@ -1,13 +1,13 @@
 body{
     margin: 0;
-    font-family: "Roboto Light";
+    font-family: Roboto,"Roboto Light";
 }
 .img{
     background: url(../Images/SeekPng.com_call-to-action-png_2114300.png);
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
     width: 100%;
-    height: available;
+    height: 1300px;
 }
 
 .navbar{
@@ -45,7 +45,6 @@ body{
 }
 
 .main{
-    padding: 16px;
     margin-bottom: 30px;
     color: #fff;
     text-align: center;
