@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="Add Background Image">
-      <change afterPath="$PROJECT_DIR$/Images/SeekPng.com_call-to-action-png_2114300.png" afterDir="false" />
+    <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="Add Initial Index Body CSS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML Pages/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML Pages/Index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Styles/MyCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles/MyCSS.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607395180554</updated>
-      <workItem from="1607395181575" duration="4639000" />
+      <workItem from="1607395181575" duration="5670000" />
     </task>
     <task id="LOCAL-00001" summary="Start Project">
       <created>1607395507912</created>
@@ -102,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607400718732</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add Initial Index Body CSS">
+      <created>1607401471053</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607401471053</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +122,8 @@
     <MESSAGE value="Add Stylesheet" />
     <MESSAGE value="Add Initial Scripts" />
     <MESSAGE value="Add Background Image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Background Image" />
+    <MESSAGE value="Add Initial Index Body CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Initial Index Body CSS" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1104" y="620" key="Github.CreateGistDialog" timestamp="1607395264033">
