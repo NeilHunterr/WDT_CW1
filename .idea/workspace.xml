@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="update contact us html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML Pages/ContactUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML Pages/ContactUs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/PHP/ContactUsProcessForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/PHP/ContactUsProcessForm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles/MyCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles/MyCSS.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607395180554</updated>
       <workItem from="1607395181575" duration="26917000" />
-      <workItem from="1607448877721" duration="2298000" />
+      <workItem from="1607448877721" duration="2732000" />
     </task>
     <task id="LOCAL-00001" summary="Start Project">
       <created>1607395507912</created>
@@ -249,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607450255832</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Update contact form placeholders">
+      <created>1607451404198</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1607451404198</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +294,8 @@
     <MESSAGE value="update contact us html" />
     <MESSAGE value="Update navbar links" />
     <MESSAGE value="Implement main tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement main tag" />
+    <MESSAGE value="Update contact form placeholders" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update contact form placeholders" />
   </component>
   <component name="WindowStateProjectService">
     <state x="860" y="355" key="#CLI_Interpreters" timestamp="1607431591035">
@@ -341,10 +350,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607439035875" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607449785551">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607451430636">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607449785551" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607451430636" />
     <state x="987" y="299" width="585" height="801" key="find.popup" timestamp="1607400636049">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

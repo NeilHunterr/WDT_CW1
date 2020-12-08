@@ -44,9 +44,11 @@ echo <<<EOL
 <head>
     <meta charset="UTF-8">
     <title>Contact Us Confirmation</title>
-    <link href="../Styles/MyCSS.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="../Styles/MyCSS.css">
 </head>
 <body>
+
+<div class="img">
 
 <main>
     <h2>Thank you, $forename $surname.</h2>
@@ -57,6 +59,17 @@ echo <<<EOL
     <br>
     <p id="confirm-note">Please allow for 12-48 hours for a response.</p>
 </main>
+
+</div>
+
+<div class="navbar">
+
+    <a href="Index.html">Home</a>
+    <a href="Job%20Search.html">Job Search</a>
+    <a href="UniFunding.html">Universities and Funding</a>
+    <a href="ContactUs.html">Contact Us</a>
+
+</div>
 
 </body>
 </html>
