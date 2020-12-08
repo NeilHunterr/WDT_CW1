@@ -46,7 +46,6 @@ body{
 }
 
 .button {
-    display: block;
     width: 115px;
     height: 25px;
     background: blue;
@@ -60,5 +59,10 @@ body{
 .button:hover {
     background: aquamarine;
     color: #000;
+}
+
+.button:visited{
+    color: white;
+    text-decoration: none;
 }
 
