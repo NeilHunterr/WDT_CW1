@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="Add File Directories" />
+    <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="Add Stylesheet">
+      <change afterPath="$PROJECT_DIR$/Scripts/JS/GetJobs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/JS/GetUni.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/PHP/ContactUsProcessForm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/PHP/ContactUsTableCreate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,20 +16,33 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lM7bu5wRONW9jQrUwC41fHEkz3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -35,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607395180554</updated>
-      <workItem from="1607395181575" duration="854000" />
+      <workItem from="1607395181575" duration="1483000" />
     </task>
     <task id="LOCAL-00001" summary="Start Project">
       <created>1607395507912</created>
@@ -51,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607395938670</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add HTML Pages">
+      <created>1607396204119</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607396204119</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add Stylesheet">
+      <created>1607396285807</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607396285807</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,20 +93,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start Project" />
     <MESSAGE value="Add File Directories" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add File Directories" />
+    <MESSAGE value="Add HTML Pages" />
+    <MESSAGE value="Add Stylesheet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Stylesheet" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1104" y="620" key="Github.CreateGistDialog" timestamp="1607395264033">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1104" y="620" key="Github.CreateGistDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607395264033" />
+    <state x="1114" y="623" key="NewPhpFileDialog" timestamp="1607396495897">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1114" y="623" key="NewPhpFileDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607396495897" />
     <state x="781" y="345" key="SettingsEditor" timestamp="1607395425954">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607395425954" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607395966535">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607396296501">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607395966535" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607396296501" />
   </component>
 </project>
