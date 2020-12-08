@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="Update Index HTML and CSS">
+    <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="Remove Nav Logo placeholder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML Pages/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML Pages/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML Pages/Job Search.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML Pages/Job Search.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Styles/MyCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles/MyCSS.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607395180554</updated>
-      <workItem from="1607395181575" duration="11263000" />
+      <workItem from="1607395181575" duration="12419000" />
     </task>
     <task id="LOCAL-00001" summary="Start Project">
       <created>1607395507912</created>
@@ -144,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607407946410</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Remove Nav Logo placeholder">
+      <created>1607408077619</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1607408077619</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +169,8 @@
     <MESSAGE value="Add Initial Index Body HTML" />
     <MESSAGE value="Restart Index, Initial HTML and CSS" />
     <MESSAGE value="Update Index HTML and CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Index HTML and CSS" />
+    <MESSAGE value="Remove Nav Logo placeholder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Nav Logo placeholder" />
   </component>
   <component name="WindowStateProjectService">
     <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607402555097">
@@ -184,10 +193,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607395425954" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607407950560">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607408082877">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607407950560" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607408082877" />
     <state x="987" y="299" width="585" height="801" key="find.popup" timestamp="1607400636049">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
