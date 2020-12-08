@@ -1,4 +1,4 @@
-body{
+body {
     margin: 0;
     font-family: Roboto,"Roboto Light";
 }
@@ -10,7 +10,7 @@ body{
     height: 1300px;
 }
 
-.navbar{
+.navbar {
     overflow: hidden;
     background-color: blue;
     position: fixed;
@@ -19,7 +19,7 @@ body{
 
 }
 
-.navbar a{
+.navbar a {
     display: block;
     color: white;
     text-align: center;
@@ -29,19 +29,19 @@ body{
     float: left;
 }
 
-.navbar a:hover{
+.navbar a:hover {
     background: aquamarine;
     color: #000;
 }
 
-.main{
+main {
     margin-bottom: 30px;
     color: #fff;
     text-align: center;
     padding: 200px;
 }
 
-.main h1{
+main h1 {
     font-size: 62px;
 }
 
@@ -61,7 +61,7 @@ body{
     color: #000;
 }
 
-.button:visited{
+.button:visited {
     color: white;
     text-decoration: none;
 }
