@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="Add Initial HTML and CSS for Job Search">
+    <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="Add Initial HTML and CSS for Contact Us">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML Pages/ContactUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML Pages/ContactUs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML Pages/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML Pages/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Styles/MyCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles/MyCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/PHP/ContactUsTableCreate.php" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/PHP/ContactUsTableCreate.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +25,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP from XAMPP">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../xampp/php" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1lM7bu5wRONW9jQrUwC41fHEkz3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,10 +40,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../xampp/php" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -48,7 +52,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607395180554</updated>
-      <workItem from="1607395181575" duration="14326000" />
+      <workItem from="1607395181575" duration="16449000" />
     </task>
     <task id="LOCAL-00001" summary="Start Project">
       <created>1607395507912</created>
@@ -159,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607409413595</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add Initial HTML and CSS for Contact Us">
+      <created>1607428351593</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1607428351593</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,17 +189,26 @@
     <MESSAGE value="Update Index HTML and CSS" />
     <MESSAGE value="Remove Nav Logo placeholder" />
     <MESSAGE value="Add Initial HTML and CSS for Job Search" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Initial HTML and CSS for Job Search" />
+    <MESSAGE value="Add Initial HTML and CSS for Contact Us" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Initial HTML and CSS for Contact Us" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607402555097">
+    <state x="860" y="355" key="#CLI_Interpreters" timestamp="1607431591035">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607402555097" />
+    <state x="860" y="355" key="#CLI_Interpreters/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607431591035" />
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607432105361">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607432105361" />
     <state x="1029" y="536" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1607404173312">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1029" y="536" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607404173312" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1607431538436">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607431538436" />
     <state x="1104" y="620" key="Github.CreateGistDialog" timestamp="1607395264033">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -197,14 +217,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1114" y="623" key="NewPhpFileDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607396495897" />
-    <state x="781" y="345" key="SettingsEditor" timestamp="1607395425954">
+    <state x="781" y="345" key="SettingsEditor" timestamp="1607431600697">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607395425954" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607409423335">
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607431600697" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607428507707">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607409423335" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607428507707" />
     <state x="987" y="299" width="585" height="801" key="find.popup" timestamp="1607400636049">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
