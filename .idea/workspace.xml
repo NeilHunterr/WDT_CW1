@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="Add Initial HTML and CSS for Contact Us">
+    <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="Initialize database for contact form">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d77e5269-6238-45fb-9dbb-f419d7f0f051.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d77e5269-6238-45fb-9dbb-f419d7f0f051.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Scripts/PHP/ContactUsTableCreate.php" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/PHP/ContactUsTableCreate.php" afterDir="false" />
     </list>
@@ -55,6 +57,16 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="ContactUsTableCreate.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Scripts/PHP/ContactUsTableCreate.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.ContactUsTableCreate.php" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607395180554</updated>
-      <workItem from="1607395181575" duration="16449000" />
+      <workItem from="1607395181575" duration="22428000" />
     </task>
     <task id="LOCAL-00001" summary="Start Project">
       <created>1607395507912</created>
@@ -170,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607428351593</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Initialize database for contact form">
+      <created>1607432261815</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1607432261815</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,29 +209,54 @@
     <MESSAGE value="Remove Nav Logo placeholder" />
     <MESSAGE value="Add Initial HTML and CSS for Job Search" />
     <MESSAGE value="Add Initial HTML and CSS for Contact Us" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Initial HTML and CSS for Contact Us" />
+    <MESSAGE value="Initialize database for contact form" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialize database for contact form" />
   </component>
   <component name="WindowStateProjectService">
     <state x="860" y="355" key="#CLI_Interpreters" timestamp="1607431591035">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="860" y="355" key="#CLI_Interpreters/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607431591035" />
-    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607432105361">
+    <state x="872" y="358" key="#Deployment" timestamp="1607436904485">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607432105361" />
+    <state x="872" y="358" key="#Deployment/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607436904485" />
+    <state x="656" y="541" key="#SQL_Dialects" timestamp="1607432183523">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="656" y="541" key="#SQL_Dialects/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607432183523" />
+    <state x="1437" y="255" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607436729119">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1437" y="255" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607436729119" />
     <state x="1029" y="536" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1607404173312">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1029" y="536" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607404173312" />
-    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1607431538436">
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1607436855706">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607431538436" />
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607436855706" />
     <state x="1104" y="620" key="Github.CreateGistDialog" timestamp="1607395264033">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1104" y="620" key="Github.CreateGistDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607395264033" />
+    <state width="1258" height="401" key="GridCell.Tab.0.bottom" timestamp="1607437473360">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607437473360" />
+    <state width="1258" height="401" key="GridCell.Tab.0.center" timestamp="1607437473360">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607437473360" />
+    <state width="1258" height="401" key="GridCell.Tab.0.left" timestamp="1607437473360">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607437473360" />
+    <state width="1258" height="401" key="GridCell.Tab.0.right" timestamp="1607437473360">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607437473360" />
     <state x="1114" y="623" key="NewPhpFileDialog" timestamp="1607396495897">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

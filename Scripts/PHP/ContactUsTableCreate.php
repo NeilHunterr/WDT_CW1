@@ -10,7 +10,7 @@ desc: Create the contacts table in the database
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "uk_job_search";
+$dbname = "jobSearchUK";
 $conn = "";
 
 try {
@@ -21,21 +21,22 @@ try {
         $password
     );
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-    echo "Connected successfully <br />";
+    echo "Connected established <br />";
 } catch (PDOException $e) {
     echo "Connection failed: " . $e->getMessage();
 }
 
 $query = $conn->prepare(
     "CREATE TABLE contacts (id int(6) NOT NULL auto_increment,
-    fname varchar(15) NOT NULL,
-    sname varchar(15) NOT NULL,
+    forename varchar(20) NOT NULL,
+    surname varchar(20) NOT NULL,
     email varchar(30) NOT NULL,
-    message varchar(5000) NOT NULL,
+    message varchar(1000) NOT NULL,
     PRIMARY KEY (id),
     UNIQUE id (id),
     KEY id_2 (id))"
 );
+
 $query->execute();
 $conn = null;
 
