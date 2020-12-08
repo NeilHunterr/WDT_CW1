@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="Add Stylesheet">
-      <change afterPath="$PROJECT_DIR$/Scripts/JS/GetJobs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/JS/GetUni.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/PHP/ContactUsProcessForm.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/PHP/ContactUsTableCreate.php" afterDir="false" />
+    <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="Add Initial Scripts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML Pages/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML Pages/Index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +40,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -54,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607395180554</updated>
-      <workItem from="1607395181575" duration="1483000" />
+      <workItem from="1607395181575" duration="3785000" />
     </task>
     <task id="LOCAL-00001" summary="Start Project">
       <created>1607395507912</created>
@@ -84,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607396285807</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Initial Scripts">
+      <created>1607396729284</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607396729284</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +105,8 @@
     <MESSAGE value="Add File Directories" />
     <MESSAGE value="Add HTML Pages" />
     <MESSAGE value="Add Stylesheet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Stylesheet" />
+    <MESSAGE value="Add Initial Scripts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Initial Scripts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1104" y="620" key="Github.CreateGistDialog" timestamp="1607395264033">
@@ -110,9 +121,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607395425954" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607396296501">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607396735944">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607396296501" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607396735944" />
   </component>
 </project>
