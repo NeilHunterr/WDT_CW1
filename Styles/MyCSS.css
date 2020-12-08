@@ -1,0 +1,14 @@
+
+body{
+    font-family: Verdana;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+body #home{
+    background-image: url("/Images/SeekPng.com_call-to-action-png_2114300.png");
+
+}
+
+
+
