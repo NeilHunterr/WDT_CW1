@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="Add Script for contact form and Update contact us html">
+    <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="update contact us html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML Pages/ContactUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML Pages/ContactUs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Styles/MyCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles/MyCSS.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.remoteExternalTools" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.ContactUs.html">
+  <component name="RunManager" selected="JavaScript Debug.Index.html">
     <configuration name="ContactUs.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/jobSearchUK/HTML Pages/ContactUs.html">
       <method v="2" />
     </configuration>
@@ -68,8 +67,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.ContactUs.html" />
         <item itemvalue="JavaScript Debug.Index.html" />
+        <item itemvalue="JavaScript Debug.ContactUs.html" />
         <item itemvalue="PHP Script.ContactUsTableCreate.php" />
       </list>
     </recent_temporary>
@@ -82,7 +81,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607395180554</updated>
-      <workItem from="1607395181575" duration="26491000" />
+      <workItem from="1607395181575" duration="26917000" />
+      <workItem from="1607448877721" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="Start Project">
       <created>1607395507912</created>
@@ -210,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607447898606</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update contact us html">
+      <created>1607448627549</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607448627549</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +240,8 @@
     <MESSAGE value="Initialize database for contact form" />
     <MESSAGE value="Add Script for contacts tables" />
     <MESSAGE value="Add Script for contact form and Update contact us html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Script for contact form and Update contact us html" />
+    <MESSAGE value="update contact us html" />
+    <option name="LAST_COMMIT_MESSAGE" value="update contact us html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="860" y="355" key="#CLI_Interpreters" timestamp="1607431591035">
@@ -264,22 +272,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1104" y="620" key="Github.CreateGistDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607395264033" />
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1607448346029">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1607448859245">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607448346029" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1607448346029">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607448859245" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1607448859245">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607448346029" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1607448346029">
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607448859245" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1607448859245">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607448346029" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1607448346029">
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607448859245" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1607448859245">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607448346029" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607448859245" />
     <state x="1114" y="623" key="NewPhpFileDialog" timestamp="1607396495897">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
