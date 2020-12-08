@@ -34,16 +34,6 @@ body{
     color: #000;
 }
 
-.logo{
-    float: right;
-    color: #fff;
-    text-align: center;
-    padding: 14px 16px;
-    font-size: 27px;
-    font-weight: bold;
-    margin-left: 20px;
-}
-
 .main{
     margin-bottom: 30px;
     color: #fff;
