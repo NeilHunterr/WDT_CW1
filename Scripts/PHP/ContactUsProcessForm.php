@@ -1,10 +1,10 @@
 
-<!--
-file: ContactUsProcessForm.php
-author: Neil Hunter
-date: 08/12/2020
-desc: Create the contact us form processing
--->
+
+<!--file: ContactUsProcessForm.php-->
+<!--author: Neil Hunter-->
+<!--date: 08/12/2020-->
+<!--desc: Create the contact us form processing-->
+
 
 <?php
 $servername = "localhost";
@@ -39,12 +39,14 @@ $query->execute();
 $conn = null;
 
 echo <<<EOL
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Contact Us Confirmation</title>
-    <link rel="stylesheet" href="../Styles/MyCSS.css">
+    <link rel="stylesheet" href="../../Styles/MyCSS.css">
+
 </head>
 <body>
 
@@ -57,7 +59,7 @@ echo <<<EOL
     <br>
     <p id="confirm-message">$message</p>
     <br>
-    <p id="confirm-note">Please allow for 12-48 hours for a response.</p>
+    <p id="confirm-note">Thank you for your message, we will get back to you asap</p>
 </main>
 
 </div>
