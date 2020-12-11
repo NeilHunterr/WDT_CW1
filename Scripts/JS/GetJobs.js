@@ -5,7 +5,7 @@ date: 11/12/2020
 desc: job search js code
 -->
 
-export const getJobList = () => {
+export const getJobsList = () => {
     const textBox = document.getElementById('job')
 
     let requestUrl = `http://api.lmiforall.org.uk/api/v1/soc/search?q=${textBox.value.trim()}`
@@ -18,7 +18,7 @@ export const getJobList = () => {
     })
         .then(response => response.json())
         .then(data => {
-            const jobListContainer = document.getElementById('job-list')
+            const jobListContainer = document.getElementById('jobList')
             const list = document.createElement('ul')
 
             jobListContainer.setAttribute('class', 'container')
@@ -27,9 +27,9 @@ export const getJobList = () => {
                 const li = document.createElement('li')
                 const a = document.createElement('a')
 
-                li.className = 'list-entry'
+                li.className = 'listItem'
                 a.textContent = job['title']
-                a.href = `job.html?soc=${job['soc']}`
+                a.href = `Job%20Info.html?soc=${job['soc']}`
 
                 list.appendChild(li)
                 li.appendChild(a)
@@ -41,11 +41,11 @@ export const getJobList = () => {
 
 // document on ready
 $(function () {
-    getJobList()
+    getJobsList()
 })
 
-$('#job-search-btn').on('click', function () {
-    getJobList()
+$('#jobSearchBtn').on('click', function () {
+    getJobsList()
 })
 
 // export const getJobData = () => {
