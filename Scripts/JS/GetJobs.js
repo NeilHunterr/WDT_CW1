@@ -1,3 +1,9 @@
+<!--
+file: GetJobs.js
+author: Neil Hunter
+date: 11/12/2020
+desc: job search js code
+-->
 
 export const getJobList = () => {
     const textBox = document.getElementById('job')
@@ -15,44 +21,31 @@ export const getJobList = () => {
             const jobListContainer = document.getElementById('job-list')
             const list = document.createElement('ul')
 
-            $(resultCountContainer).children().remove()
-
             jobListContainer.setAttribute('class', 'container')
-            Utilities.clearList(jobListContainer)
-
-            p1.id = 'uni-result-count'
-            p1.innerHTML = `${data.length}`
-            p2.innerHTML = '&nbsp;Results found:'
-
-            const p1p2 = [p1, p2]
-
-            p1p2.forEach(element => {
-                $(element).css({
-                    'font-weight': 'bold',
-                    'font-size': '120%'
-                })
-                resultCountContainer.appendChild(element)
-            })
 
             data.forEach(job => {
-                const div = document.createElement('div')
-                const h3 = document.createElement('h3')
+                const li = document.createElement('li')
                 const a = document.createElement('a')
-                const p = document.createElement('p')
 
-                div.className = 'list-entry'
+                li.className = 'list-entry'
                 a.textContent = job['title']
                 a.href = `job.html?soc=${job['soc']}`
-                p.textContent = job['description']
 
-                h3.appendChild(a)
-                div.appendChild(h3)
-                div.appendChild(p)
-                jobListContainer.appendChild(div)
+                li.appendChild(a)
+                jobListContainer.appendChild(li)
             })
         })
         .catch(error => console.log(`response error: ${error}`))
 }
+
+// document on ready
+$(function () {
+    getJobList()
+})
+
+$('#job-search-btn').on('click', function () {
+    getJobList()
+})
 
 // export const getJobData = () => {
 //     const requestUrl = `http://api.lmiforall.org.uk/api/v1/soc/code/${Utilities.getSocFromUrl()}`
