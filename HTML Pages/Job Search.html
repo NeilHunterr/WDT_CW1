@@ -1,3 +1,10 @@
+<!--
+file: Job%20Search.html
+author: Neil Hunter
+date: 11/12/2020
+desc: job search html page
+-->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -15,17 +22,28 @@
 
         <div class="search-bar" id="job-search-bar">
             <div>
+
                 <p>Enter your dream career in the text box below</p>
-                <h3>Search</h3>
+
             </div>
+
             <div>
+
                 <div>
                     <input id="job" placeholder="Enter a job" type="text">
                 </div>
+
                 <div>
                     <input class="search-btn" id="job-search-btn" type="submit" value="Search">
                 </div>
+
+                <div class="list" id="job-list">
+
+                </div>
+
             </div>
+
+
         </div>
 
     </div>
@@ -40,5 +58,10 @@
 
 </div>
 
+<script src="/Scripts/JS/lib/jquery-3.5.1.min.js"></script>
+<script src="/Scripts/JS/load_modules.js"></script>
+<script src="/Scripts/JS/GetJobs.js" type="module"></script>
+
 </body>
+
 </html>
