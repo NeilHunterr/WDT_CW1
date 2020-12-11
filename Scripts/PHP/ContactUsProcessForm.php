@@ -1,5 +1,4 @@
 
-
 <!--file: ContactUsProcessForm.php-->
 <!--author: Neil Hunter-->
 <!--date: 08/12/2020-->
@@ -59,7 +58,7 @@ echo <<<EOL
     <br>
     <p id="confirm-message">$message</p>
     <br>
-    <p id="confirm-note">Thank you for your message, we will get back to you asap</p>
+    <p id="confirm-note">Thank you for your message, we will get back to you asap :)</p>
 </main>
 
 </div>
