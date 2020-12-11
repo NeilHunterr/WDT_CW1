@@ -31,6 +31,7 @@ export const getJobList = () => {
                 a.textContent = job['title']
                 a.href = `job.html?soc=${job['soc']}`
 
+                list.appendChild(li)
                 li.appendChild(a)
                 jobListContainer.appendChild(li)
             })
