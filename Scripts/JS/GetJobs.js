@@ -50,8 +50,3 @@ $(function () {
 $('#jobSearchBtn').on('click', function () {
     getJobsList()
 })
-
-// export const getJobData = () => {
-//     const requestUrl = `http://api.lmiforall.org.uk/api/v1/soc/code/${Utilities.getSocFromUrl()}`
-//
-// }
