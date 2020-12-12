@@ -33,8 +33,11 @@ export const getJobsList = () => {
 
                 list.appendChild(li)
                 li.appendChild(a)
-                jobListContainer.appendChild(li)
+
             })
+
+            jobListContainer.appendChild(list)
+
         })
         .catch(error => console.log(`response error: ${error}`))
 }

@@ -20,6 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="Attempt to attach stylesheeet to validation form">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML Pages/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML Pages/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML Pages/Job Search.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML Pages/Job Search.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Scripts/JS/GetJobs.js" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/JS/GetJobs.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +112,7 @@
       <updated>1607395180554</updated>
       <workItem from="1607395181575" duration="26917000" />
       <workItem from="1607448877721" duration="8441000" />
-      <workItem from="1607694148557" duration="4153000" />
+      <workItem from="1607694148557" duration="8619000" />
     </task>
     <task id="LOCAL-00001" summary="Start Project">
       <created>1607395507912</created>
@@ -300,7 +303,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607699952777</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="update init jobsearch script">
+      <created>1607700054483</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1607700054483</updated>
+    </task>
+    <task id="LOCAL-00029" summary="update init jobsearch script and html page">
+      <created>1607700625933</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1607700625933</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,8 +336,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Start Project" />
-    <MESSAGE value="Add File Directories" />
     <MESSAGE value="Add HTML Pages" />
     <MESSAGE value="Add Stylesheet" />
     <MESSAGE value="Add Initial Scripts" />
@@ -344,7 +359,9 @@
     <MESSAGE value="Initial commit for day 2" />
     <MESSAGE value="add jquery lib" />
     <MESSAGE value="add init jobsearch script" />
-    <option name="LAST_COMMIT_MESSAGE" value="add init jobsearch script" />
+    <MESSAGE value="update init jobsearch script" />
+    <MESSAGE value="update init jobsearch script and html page" />
+    <option name="LAST_COMMIT_MESSAGE" value="update init jobsearch script and html page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="860" y="355" key="#CLI_Interpreters" timestamp="1607431591035">
@@ -399,10 +416,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607698908362" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607694209466">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607700067765">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607694209466" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607700067765" />
     <state x="987" y="299" width="585" height="801" key="find.popup" timestamp="1607400636049">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
