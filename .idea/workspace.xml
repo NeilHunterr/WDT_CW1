@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="Attempt to attach stylesheeet to validation form" />
+    <list default="true" id="4343ea3a-cc33-4476-bfd3-c5b8cd4daf0b" name="Default Changelist" comment="Attempt to attach stylesheeet to validation form">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML Pages/Job Search.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML Pages/Job Search.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +110,7 @@
       <updated>1607395180554</updated>
       <workItem from="1607395181575" duration="26917000" />
       <workItem from="1607448877721" duration="8441000" />
-      <workItem from="1607694148557" duration="10482000" />
+      <workItem from="1607694148557" duration="11356000" />
     </task>
     <task id="LOCAL-00001" summary="Start Project">
       <created>1607395507912</created>
@@ -333,7 +336,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607802524414</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Update job info script and html">
+      <created>1607803002412</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1607803002412</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Update job info script">
+      <created>1607803598908</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1607803598908</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,7 +369,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Background Image" />
     <MESSAGE value="Add Initial Index Body CSS" />
     <MESSAGE value="Add Initial Index Body HTML" />
     <MESSAGE value="Restart Index, Initial HTML and CSS" />
@@ -377,7 +393,8 @@
     <MESSAGE value="Add about us section to index" />
     <MESSAGE value="Add init job info script" />
     <MESSAGE value="Update job info script and html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update job info script and html" />
+    <MESSAGE value="Update job info script" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update job info script" />
   </component>
   <component name="WindowStateProjectService">
     <state x="860" y="355" key="#CLI_Interpreters" timestamp="1607431591035">
@@ -432,10 +449,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607698908362" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607801319809">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1607803605693">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607801319809" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607803605693" />
     <state x="987" y="299" width="585" height="801" key="find.popup" timestamp="1607400636049">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
