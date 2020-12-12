@@ -28,21 +28,23 @@ export const getJobInfo = () => {
 
             document.getElementById('tasksTitle').innerText = 'Tasks'
 
-            // // Divide tasks into individual list items
-            // // TODO: Stop loop from appending empty children
-            // const tasksList = document.getElementById('tasksList')
-            // let subArray = []
-            // const regex = /^[A-Za-z\s]+$/;  // only match letters and spaces
-            // [...data.tasks].forEach(character => {
-            //     if (character.match(regex)) {
-            //         subArray.push(character)
-            //     } else {
-            //         const listItem = document.createElement('li')
-            //         listItem.innerHTML = subArray.join('')
-            //         tasksList.appendChild(listItem)
-            //         subArray = []
-            //     }
-            // })
+
+
+             const tasksList = document.getElementById('tasksList')
+
+             let subArray = []
+
+             const regex = /^[A-Za-z\s]+$/;  // only match letters and spaces
+             [...data.tasks].forEach(character => {
+                 if (character.match(regex)) {
+                     subArray.push(character)
+                 } else {
+                     const listItem = document.createElement('li')
+                     listItem.innerHTML = subArray.join('')
+                     tasksList.appendChild(listItem)
+                     subArray = []
+                 }
+             })
 
             document.getElementById('tagsTitle').innerText = 'Tags'
             document.getElementById('tagsDesc').innerText = `[${data.add_titles.slice(0, 10)}]`
