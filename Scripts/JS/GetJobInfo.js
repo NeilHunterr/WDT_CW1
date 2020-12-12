@@ -20,7 +20,6 @@ export const getJobInfo = () => {
         .then(response => response.json())
         .then(data => {
             document.getElementById('jobTitle').innerText = data.title
-            document.getElementById('socText').innerText = `SOC code: ${data.soc}`
             document.getElementById('description').innerText = data.description
 
             document.getElementById('qual').innerText = 'Qualifications'
