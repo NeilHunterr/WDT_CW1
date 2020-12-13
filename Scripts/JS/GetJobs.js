@@ -48,5 +48,6 @@ $(function () {
 })
 
 $('#jobSearchBtn').on('click', function () {
+    console.log('Test for input')
     getJobsList()
 })
