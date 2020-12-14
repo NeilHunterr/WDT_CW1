@@ -1,9 +1,11 @@
-<!--
-file: GetJobInfo.js
-author: Neil Hunter
-date: 11/12/2020
-desc: job info js code
--->
+// <!--
+// file: GetJobInfo.js
+// author: Neil Hunter
+// date: 11/12/2020
+// desc: job info js code
+// -->
+
+console.log('Job info');
 
 
 export const getSocFromUrl = () => {
