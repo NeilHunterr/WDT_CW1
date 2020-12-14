@@ -1,9 +1,11 @@
-<!--
-file: GetJobs.js
-author: Neil Hunter
-date: 11/12/2020
-desc: job search js code
--->
+// <!--
+// file: GetJobs.js
+// author: Neil Hunter
+// date: 11/12/2020
+// desc: job search js code
+// -->
+
+console.log('job search');
 
 export const getJobsList = () => {
     const textBox = document.getElementById('job')
